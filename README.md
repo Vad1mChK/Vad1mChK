@@ -1,4 +1,5 @@
-## Hi there 👋
+Meet the
+# Vad1mChK
 
 <!--
 **Vad1mChK/Vad1mChK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey look buddy, I'm a **software engineer**. And I solve problems.
+
+Not problems like "*is Moore's law still relevant*", because that would fall into the purview of your conundrums of Computer Architecture.
+
+I solve practical problems.
+
+---
+
+- I'm currently working on several projects, including but not limited to:
+  - Visual novel teaching Prolog
+- How to reach me:
+  - [Telegram](https://t.me/Varargparse) 
+- Pronouns: `he`/`him`
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vad1mChK&theme=tokyonight&exclude_repo=vad1mchk.github.io)
