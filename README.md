@@ -25,7 +25,7 @@ I solve practical problems.
 ---
 
 - I'm currently working on several projects, including but not limited to:
-  - Visual novel teaching Prolog
+  - [LogicNovelMystery](https://github.com/Vad1mChK/LogicNovelMystery) -- Visual novel teaching Prolog
 - How to reach me:
   - [Telegram](https://t.me/Varargparse) 
 - Pronouns: `he`/`him`
