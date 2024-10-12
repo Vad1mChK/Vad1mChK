@@ -32,4 +32,5 @@ I solve practical problems.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vad1mChK&theme=tokyonight&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vad1mChK&theme=tokyonight&hide=html)
+![GH Stats](https://github-readme-stats.vercel.app/api?username=Vad1mChK&theme=tokyonight&hide=html)
