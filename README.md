@@ -32,5 +32,5 @@ I solve practical problems.
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vad1mChK&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&layout=donut&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vad1mChK&theme=tokyonight&hide=html,scss,css,jupyter%20notebook&layout=donut&langs_count=8)
 ![GH Stats](https://github-readme-stats.vercel.app/api?username=Vad1mChK&theme=tokyonight&hide=html)
