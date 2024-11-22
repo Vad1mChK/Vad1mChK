@@ -26,6 +26,7 @@ I solve practical problems.
 
 - I'm currently working on several projects, including but not limited to:
   - [LogicNovelMystery](https://github.com/Vad1mChK/LogicNovelMystery) -- Visual novel teaching Prolog
+  - [varargparse-mk-ii-kt](https://github.com/Vad1mChK/varargparse-mk-ii-kt) -- A Kotlin Telegram bot implemented using a library
 - How to reach me:
   - [Telegram](https://t.me/Varargparse) 
 - Pronouns: `he`/`him`
