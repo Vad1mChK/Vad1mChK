@@ -30,7 +30,7 @@ For instance...
   - [varargparse-mk-ii-kt](https://github.com/Vad1mChK/varargparse-mk-ii-kt) -- A Kotlin Telegram bot implemented using a library
 - I have successfully implemented:
   - Gameplay logic and design for [LogicNovelMystery](https://github.com/Vad1mChK/LogicNovelMystery) -- Visual novel teaching Prolog
-  - Frontend teamlead's right-hand man, responsible for authentication and home screens, utilizing Jetpack Compose for visuals and navigation to deliver seamless and convenient user experiences in [BARSHunters'](https://github.com/BARSHunters) [mobile health app](https://github.com/BARSHunters/happ-frontend).
+  - Responsible for authentication and home screens, utilizing Jetpack Compose for visuals and navigation to deliver seamless and convenient user experiences in [BARSHunters'](https://github.com/BARSHunters) [mobile health app](https://github.com/BARSHunters/happ-frontend).
 - Ask me about:
   - ...why I don't stop monitoring the Kotlin issue [KT-1440](https://youtrack.jetbrains.com/issue/KT-1440).
     - Adding bitwise operators to Kotlin would enable more expressive and intuitive operations, significantly enhancing ease of use and migration from other languages.
