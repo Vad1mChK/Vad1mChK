@@ -27,6 +27,7 @@ For instance...
 ---
 
 - I'm currently working on several projects, including but not limited to:
+  - [*expedition Zero: Station Pulsar*](https://github.com/Vad1mChK/expedition-0) -- A VR game teaching the basics of ternary logic
   - [varargparse-mk-ii-kt](https://github.com/Vad1mChK/varargparse-mk-ii-kt) -- A Kotlin Telegram bot implemented using a library
 - I have successfully implemented:
   - Gameplay logic and design for [LogicNovelMystery](https://github.com/Vad1mChK/LogicNovelMystery) -- Visual novel teaching Prolog
