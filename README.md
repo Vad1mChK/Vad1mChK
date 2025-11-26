@@ -28,7 +28,6 @@ For instance...
 
 - I'm currently working on several projects, including but not limited to:
   - [*Expedition-0: Station Pulsar*](https://github.com/Vad1mChK/expedition-0) -- A VR game teaching the basics of ternary logic
-  - [varargparse-mk-ii-kt](https://github.com/Vad1mChK/varargparse-mk-ii-kt) -- A Kotlin Telegram bot implemented using a library
 - I have successfully implemented:
   - Gameplay logic and design for [LogicNovelMystery](https://github.com/Vad1mChK/LogicNovelMystery) -- Visual novel teaching Prolog
   - Responsible for authentication and home screens, utilizing Jetpack Compose for visuals and navigation to deliver seamless and convenient user experiences in [BARSHunters'](https://github.com/BARSHunters) [mobile health app](https://github.com/BARSHunters/happ-frontend).
