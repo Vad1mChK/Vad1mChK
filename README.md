@@ -59,6 +59,8 @@ For instance...
 
 ---
 
+And you better hope... my projects **are** pointed at you :)
+
 ## Tech Stack
 |   | Examples |
 |---|---|
