@@ -27,7 +27,7 @@ For instance...
 ---
 
 - I'm currently working on several projects, including but not limited to:
-  - [*Expedition-0: Station Pulsar*](https://github.com/Vad1mChK/expedition-0) -- A VR game teaching the basics of ternary logic
+  - *Expedition-0: Station Pulsar* ([frontend](https://github.com/Vad1mChK/expedition-0) | [backend](https://github.com/Vad1mChK/expedition-0-backend)) -- A VR game teaching the basics of ternary logic
 - I have successfully implemented:
   - Gameplay logic and design for [LogicNovelMystery](https://github.com/Vad1mChK/LogicNovelMystery) -- Visual novel teaching Prolog
   - Responsible for authentication and home screens, utilizing Jetpack Compose for visuals and navigation to deliver seamless and convenient user experiences in [BARSHunters'](https://github.com/BARSHunters) [mobile health app](https://github.com/BARSHunters/happ-frontend).
