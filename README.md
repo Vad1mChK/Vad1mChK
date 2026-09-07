@@ -27,10 +27,15 @@ For instance...
 ---
 
 - I'm currently working on several projects, including but not limited to:
-  - *Expedition-0: Station Pulsar* ([frontend](https://github.com/Vad1mChK/expedition-0-frontend) | [backend](https://github.com/Vad1mChK/expedition-0-backend)) -- A VR game teaching the basics of ternary logic
+  - Whatever you task me with, if you hire me!
 - I have successfully implemented:
+  - *Expedition-0: Station Pulsar* ([frontend](https://github.com/Vad1mChK/expedition-0-frontend) | [backend](https://github.com/Vad1mChK/expedition-0-backend)) -- A VR game teaching the basics of ternary logic
+  - [literature-search-bot](https://github.com/Vad1mChK/literature-search-bot), a Kotlin Telegram bot for full-text search across technical documentation.
+  - The frontend for an [EEG Analyzer Web App](https://github.com/Vad1mChK/CourseworkEEG), leveraging the paradigm of React with ReCharts for interactive data visualization.
+  - The frontend, dispatcher, and poetry generation modules for [NeuroPoetBot](https://github.com/Vad1mChK/NeuroPoetBot), a Telegram bot generating emotional poetry in Russian.
+  - Responsible for authentication and home screens, utilizing Jetpack Compose with Vico for visuals and navigation to deliver seamless and convenient user experiences in [BARSHunters'](https://github.com/BARSHunters) [mobile health app](https://github.com/BARSHunters/happ-frontend).
   - Gameplay logic and design for [LogicNovelMystery](https://github.com/Vad1mChK/LogicNovelMystery) -- Visual novel teaching Prolog
-  - Responsible for authentication and home screens, utilizing Jetpack Compose for visuals and navigation to deliver seamless and convenient user experiences in [BARSHunters'](https://github.com/BARSHunters) [mobile health app](https://github.com/BARSHunters/happ-frontend).
+
 - Ask me about:
   - ...why I don't stop monitoring the Kotlin issue [KT-1440](https://youtrack.jetbrains.com/issue/KT-1440).
     - Adding bitwise operators to Kotlin would enable more expressive and intuitive operations, significantly enhancing ease of use and migration from other languages.
